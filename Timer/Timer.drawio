@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T03:45:09.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="kpHlUeO-jHXaRUnPr0Ge" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-21T03:46:31.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="vZquWO8dJdYZUifaCB-2" version="24.4.4" type="github" pages="4">
   <diagram id="0VLV0tMc2H1Wie2A4KIR" name="Top-level">
     <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U6KI4l30yy0JX19nmwuE" name="Timer module">
-    <mxGraphModel dx="755" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1081,11 +1081,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DoXXhwDdPZzILl0RqrKV" name="Time-Base">
-    <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lE0MF8dF0R2_mjjrT51i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="lE0MF8dF0R2_mjjrT51i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="59" y="84" width="751" height="766" as="geometry" />
         </mxCell>
         <mxCell id="z7P5VKA3RB3ijGh97ngR-2" value="Time-base" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
@@ -1129,7 +1129,7 @@
         </mxCell>
         <mxCell id="z7P5VKA3RB3ijGh97ngR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="z7P5VKA3RB3ijGh97ngR-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="749" y="282" as="targetPoint" />
+            <mxPoint x="840" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z7P5VKA3RB3ijGh97ngR-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1292,6 +1292,9 @@
         </mxCell>
         <mxCell id="tTROXcHxd5RjfkV362o5-4" value="&lt;div&gt;31:0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="485" width="35" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk68pgLSpO7SBr-_19VU-1" value="tcnt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="259" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
