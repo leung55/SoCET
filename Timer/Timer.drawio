@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T21:19:59.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="jC4O8o475rpsH85b54xV" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-21T21:20:31.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="0g5JoYj9VpL8-4DV1PXo" version="24.4.4" type="github" pages="4">
   <diagram id="0VLV0tMc2H1Wie2A4KIR" name="Top-level">
     <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1302,7 +1302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_9BlYTypKvhHB4Xugizl" name="Capture-Compare Channel">
-    <mxGraphModel dx="717" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1806,6 +1806,12 @@
         </mxCell>
         <mxCell id="rjctPu9E55A4MpD8Qfqb-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Output Compare&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="449" y="1050" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rjctPu9E55A4MpD8Qfqb-3" value="tcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206" y="863" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rjctPu9E55A4MpD8Qfqb-4" value="tarr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="191" y="892.75" width="29" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
