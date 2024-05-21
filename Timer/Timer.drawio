@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T03:56:25.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="TbM0gwH8d9pGgWGj32Tj" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-21T03:58:39.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="jP7p5o9s5XG9GB8Zq6Y1" version="24.4.4" type="github" pages="4">
   <diagram id="0VLV0tMc2H1Wie2A4KIR" name="Top-level">
     <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1081,7 +1081,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DoXXhwDdPZzILl0RqrKV" name="Time-Base">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1309,6 +1309,16 @@
         </mxCell>
         <mxCell id="Jk68pgLSpO7SBr-_19VU-7" value="nxt_tc_irq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="296" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQk7BwNoma9hS33oiI99-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQk7BwNoma9hS33oiI99-2" target="z7P5VKA3RB3ijGh97ngR-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQk7BwNoma9hS33oiI99-2" value="tc_irq_en" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="199" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
