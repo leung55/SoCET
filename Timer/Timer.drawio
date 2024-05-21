@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T21:15:43.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ezvdcHgjyHtOrkYqwq-s" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-21T21:19:59.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="jC4O8o475rpsH85b54xV" version="24.4.4" type="github" pages="4">
   <diagram id="0VLV0tMc2H1Wie2A4KIR" name="Top-level">
     <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1302,10 +1302,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_9BlYTypKvhHB4Xugizl" name="Capture-Compare Channel">
-    <mxGraphModel dx="1509" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1pQ9QoYvtv841KNahhwR-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="640" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="EU3yeByi70ORGdQOXck4-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="450" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="EU3yeByi70ORGdQOXck4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="790" width="480" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="KS2lWQUbTWkgOvlsbiRV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=7;" edge="1" parent="1" source="FzRiIfpy8C0L5nEiF2S4-2" target="lW7AvcWmKujEDrgc8jRX-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1601,8 +1610,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="933" />
-              <mxPoint x="440" y="1070" />
-              <mxPoint x="760" y="1070" />
+              <mxPoint x="440" y="1050" />
+              <mxPoint x="760" y="1050" />
               <mxPoint x="760" y="840" />
             </Array>
           </mxGeometry>
@@ -1791,6 +1800,12 @@
         </mxCell>
         <mxCell id="1pQ9QoYvtv841KNahhwR-27" value="&lt;div&gt;31:0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="281.12" width="35" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rjctPu9E55A4MpD8Qfqb-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Input Capture&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="439" y="750" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rjctPu9E55A4MpD8Qfqb-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Output Compare&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="1050" width="171" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
