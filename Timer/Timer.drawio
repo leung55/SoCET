@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T05:19:22.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Xo6lXa9V2RKuH4rTjNYe" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-23T05:20:00.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="HlyjCG7RxwYpDEH6ZYiU" version="24.4.4" type="github" pages="4">
   <diagram id="0VLV0tMc2H1Wie2A4KIR" name="Top-level">
     <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U6KI4l30yy0JX19nmwuE" name="Timer module">
-    <mxGraphModel dx="470" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
