@@ -1,0 +1,5 @@
+*.conf
+*.ini
+*.sh
+*.core
+wscript
